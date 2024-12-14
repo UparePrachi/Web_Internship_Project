@@ -1,0 +1,1707 @@
+section{
+    width: 1366px;
+    height: 768px;
+}
+.zero header{
+    display: flex;
+    width: 1368px;
+    height: 56px;
+    background-color: #2EC47D;
+}
+#l1 img{
+    width: 21.92px;
+    height: 22px;
+    top: 17px;
+    left: 80px;
+}
+#l1 .fs-9{
+    width: 275px;
+    height: 21px;
+    top: 21px;
+    left: 122px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+#l2 img{
+    width: 22.95px;
+    height: 17px;
+    top: 20px;
+    left: 432px
+}
+#l2 .fs-9{
+    width: 464px;
+    height: 28px;
+    top: 14px;
+    left: 474px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+#l3 {
+    width: 136px;
+    height: 26.98px;
+    top: 15px;
+    left: 1131px;
+    padding: 0px, 0px, 0px, 0px;
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+#i1{
+    width: 1366px;
+    height: 560px;
+    top: 171px;
+
+}
+#h1{
+    position: absolute;
+    width: 973px;
+    height: 80px;
+    top: 396px;
+    left: 197px;
+
+    font: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 80px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+  .bg-image p {
+    position: absolute;
+    width: 867px;
+    height: 70px;
+    left: 250px;
+    top: 480px;
+    color: #ffffff;
+    font: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 35px;
+    text-align: center;
+      
+  }
+  .bg-image button{
+    width: 226px;
+    height: 55px;
+    top: 580px;
+    left: 606px;
+    border: none;
+    border-radius: 100px;
+    position: absolute;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+/*###########################################################################################################################################*/
+  .img-fluid{
+    width: 610px;
+    height: 581px;
+    top: 945px;
+    left: 85px;
+    
+  }
+  .one .rounded{
+    width: 149px;
+    height: 113px;
+    top: 820px;
+    left: 899px;
+    position: absolute;
+  }
+  .one #h2{
+    width: 630px;
+    height: 57px;
+    top: 885px;
+    left: 1000px;
+    font: Ubuntu;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+    transform: translate(-50%, -50%);
+    position: absolute;
+  }
+  #c1{
+    width: 310px;
+    height: 119px;
+    top: 150px;
+  }
+  #c2{
+    width: 310px;
+    height: 119px;
+    top: 180px;
+  }
+  #c3{
+    width: 310px;
+    height: 119px;
+    top: 210px;
+  }
+
+  .card img {
+    width: 75px;
+    height: 75px;
+    top: 1072px;
+    left: 641px;
+  }
+
+  .rec{
+    position: absolute;
+    width: 8px;
+    height: 346px;
+    left: 1020px;
+    top: 1040px;
+    background-color: #2EC47D;   
+  }
+
+  #c4 {
+    position: absolute;
+    width: 310px;
+    height: 119px;
+    top: 990px;
+    left: 1045px;
+  }
+  #c5 {
+    position: absolute;
+    width: 310px;
+    height: 119px;
+    top: 1140px;
+    left: 1045px;
+  }
+  #c6 {
+    position: absolute;
+    width: 310px;
+    height: 119px;
+    top: 1290px;
+    left: 1045px;
+  }
+
+  /*############################################################################################################################################*/
+  .two #h4{
+    position: absolute;
+    width: 120px;
+    height: 23px;
+    top: 1832px;
+    left: 190px;
+    font: Ubuntu;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .two #h5{
+    position: absolute;
+    width: 120px;
+    height: 23px;
+    top: 1970px;
+    left: 190px;
+    font: Ubuntu;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .two #h6{
+    position: absolute;
+    width: 120px;
+    height: 23px;
+    top: 2100px;
+    left: 190px;
+    font: Ubuntu;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  #p2{
+    position: absolute;
+    width: 200px;
+    height: 66px;
+    top: 1867px;
+    left: 113px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  #p3{
+    position: absolute;
+    width: 200px;
+    height: 66px;
+    top: 2000px;
+    left: 113px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  #p4{
+    position: absolute;
+    width: 200px;
+    height: 66px;
+    top: 2135px;
+    left: 113px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  #s1{
+    position: absolute;
+    top: 1832px;
+    left: 310px;
+  }
+  #s2{
+    position: absolute;
+    top: 1970px;
+    left: 310px;
+  }
+  #s3{
+    position: absolute;
+    top: 2100px;
+    left: 310px;
+  }
+  .two .rounded{
+    width: 149px;
+    height: 113px;
+    top: 1600px;
+    left: 600px;
+    position: absolute;
+  }
+  .two #h2{
+    width: 630px;
+    height: 57px;
+    top: 1669px;
+    left: 850px;
+    font: Ubuntu;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+    transform: translate(-50%, -50%);
+    position: absolute;
+  }
+  .two img{
+    position: absolute;
+    top: 1732px;
+    left: 420px;
+    width: 508px;
+    height: 508px;
+    border-radius: 297px;
+    border: 1px;
+  }
+
+  .two #h7{
+    position: absolute;
+    width: 120px;
+    height: 23px;
+    top: 1832px;
+    left: 1040px;
+    font: Ubuntu;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  #s4{
+    position: absolute;
+    top: 1832px;
+    left: 1000px;
+  }
+  #p5{
+    position: absolute;
+    width: 200px;
+    height: 66px;
+    top: 1867px;
+    left: 1050px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+
+  .two #h8{
+    position: absolute;
+    width: 120px;
+    height: 23px;
+    top: 1970px;
+    left: 1040px;
+    font: Ubuntu;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  #s5{
+    position: absolute;
+    top: 1970px;
+    left: 1000px;
+  }
+  #p6{
+    position: absolute;
+    width: 200px;
+    height: 66px;
+    top: 2000px;
+    left: 1050px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .two #h9{
+    position: absolute;
+    width: 120px;
+    height: 23px;
+    top: 2100px;
+    left: 1040px;
+    font: Ubuntu;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  #s6{
+    position: absolute;
+    top: 2100px;
+    left: 1000px;
+  }
+  #p7{
+    position: absolute;
+    width: 200px;
+    height: 66px;
+    top: 2135px;
+    left: 1050px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  /*###########################################################################################################################################*/
+
+  .Three .rounded{
+    width: 149px;
+    height: 113px;
+    top: 10px;
+    left: 595px;
+    position: absolute;
+  }
+  .Three #h2{
+    position: absolute;
+    width: 630px;
+    height: 57px;
+    top: 70px;
+    left: 875px;
+    font: Ubuntu;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+    transform: translate(-50%, -50%);
+  }
+
+  #tc1{
+    position: absolute;
+    background-color: #2EC47D;
+    width: 683px;
+    height: 584px;
+    top: 2368px;
+
+  }
+  .Three p{
+    position: absolute;
+    width: 591px;
+    height: 308px;
+    top: 150px;
+    left: 60px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+  }
+  .Three button{
+    width: 152px;
+    height: 45px;
+    top: 500px;
+    left: 266px;
+    border: none;
+    border-radius: 100px;
+    position: absolute;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+  .Three .img-fluid{
+    position: absolute;
+    width: 525px;
+    height: 400px;
+    top: 2534px;
+    left: 781px;
+  }
+  
+  .Three .bg-image{
+    position: absolute;
+    width: 1366px;
+    height: 217px;
+    top: 3034px;
+    left: 2px;
+  }
+  .Three #p1{
+    position: absolute;
+    width: 609px;
+    height: 120px;
+    top: 50px;
+    left: 100px;
+    font: Ubuntu;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .Three #b1{
+    position: absolute;
+    width: 248px;
+    height: 60px;
+    top: 75px;
+    left: 1018px;
+    border-radius: 100px;
+    border: none;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #FFFFFF;
+  }
+  
+  /*##########################################################################################################################################*/
+ .Four .rounded{
+    position:absolute;
+    width: 149px;
+    height: 113px;
+    top: 3391px;
+    left: 608px;
+  }
+  .Four h1{
+    position:absolute;
+    width: 263px;
+    height: 57px;
+    top: 3430px;
+    left: 551px;
+    font: Ubuntu;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }  
+  .Four #c1{
+    position:absolute;
+    width: 209px;
+    height: 137px;
+    top: 3560px;
+    left: 80px;
+    opacity: 40%;
+  }
+  .Four #c2{
+    position:absolute;
+    width: 269px;
+    height: 176px;
+    top: 3545px;
+    left: 376px;
+    opacity: 40%;
+  }
+  .Four #c3{
+    position:absolute;
+    width: 220px;
+    height: 165px;
+    top: 3520px;
+    left: 732px;
+    opacity: 40%;
+  }
+  .Four #c4{
+    position:absolute;
+    width: 246px;
+    height: 82px;
+    top: 3580px;
+    left: 1039px;
+    opacity: 40%;
+  }
+
+  .Four #c5{
+    position:absolute;
+    width: 209px;
+    height: 137px;
+    top: 3780px;
+    left: 80px;
+  }
+  .Four #c6{
+    position:absolute;
+    width: 269px;
+    height: 176px;
+    top: 3770px;
+    left: 376px;
+  }
+  .Four #c7{
+    position:absolute;
+    width: 220px;
+    height: 165px;
+    top: 3746px;
+    left: 732px;
+  }
+  .Four #c8{
+    position:absolute;
+    width: 246px;
+    height: 82px;
+    top: 3800px;
+    left: 1039px;
+  }
+
+  /*##########################################################################################################################################*/
+  .Five .rounded{
+    position:absolute;
+    width: 149px;
+    height: 113px;
+    top: 4011px;
+    left: 609px;
+  }
+  .Five h1{
+    position:absolute;
+    width: 293px;
+    height: 57px;
+    top: 4051px;
+    left: 550px;
+    font: Ubuntu;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }  
+  .Five .bg-image{
+    position: absolute;
+    width: 1366px;
+    height: 448px;
+    top: 4174px;
+    left: 2px;
+  }
+  .Five #i1{
+    position: absolute;
+    width: 159px;
+    height: 147px;
+    top: 40px;
+    left: 604px;
+  }
+  .Five #p1{
+    position: absolute;
+    width: 820px;
+    height: 112px;
+    top: 215px;
+    left: 263px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+  .Five #i2{
+    position: absolute;
+    width: 33px;
+    height: 26.47px;
+    top: 190px;
+    left: 222px;
+  }
+  .Five #i3{
+    position: absolute;
+    width: 33px;
+    height: 26.47px;
+    top: 290.47px;
+    left: 1075px;
+    transform: rotate(180deg);
+  }
+  .Five #b1{
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    top: 359px;
+    left: 634px;
+    border-radius: 100%;
+    background: #CACACA;
+  }
+  .Five #b2{
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    top: 359px;
+    left: 662px;
+    border-radius: 100%;
+    background: #605F5F;
+  }
+  .Five #b3{
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    top: 359px;
+    left: 690px;
+    border-radius: 100%;
+    background: #605F5F;
+  }
+  .Five #b4{
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    top: 359px;
+    left: 718px;
+    border-radius: 100%;
+    background: #605F5F;
+  }
+  /*##########################################################################################################################################*/
+  .Six .rounded{
+    position:absolute;
+    width: 149px;
+    height: 113px;
+    top: 4722px;
+    left: 609px;
+  }
+  .Six h1{
+    position:absolute;
+    width: 130px;
+    height: 57px;
+    top: 4762px;
+    left: 618px;
+    font: Ubuntu;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 57.45px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }  
+  .Six #i1{
+    position: absolute;
+    width: 402px;
+    height: 226px;
+    top: 4885px;
+    left: 60px;
+  }
+  .Six #d1{
+    position: absolute;
+    width: 192px;
+    height: 35px;
+    top: 4905px;
+    left: 60px;
+    background: #2EC47D;
+  }
+  #d1 p{
+    position: absolute;
+    width: 190px;
+    height: 30px;
+    top: 2px;
+    left: 5px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Six #d2{
+    position: absolute;
+    width: 66px;
+    height: 53px;
+    top: 5086px;
+    left: 60px;
+    background: #2EC47D;
+  }
+  #d2 #p1{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    top: 5px;
+    left: 22px;
+    font: Josefin Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  #d2 #p2{
+    position: absolute;
+    width: 38px;
+    height: 16px;
+    top: 25px;
+    left: 5px;
+    font: Josefin Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  #d2 #p3{
+    position: absolute;
+    width: 18px;
+    height: 16px;
+    top: 25px;
+    left: 40px;
+    font: Josefin Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Six #i2{
+    position: absolute;
+    width: 15px;
+    height: 17px;
+    top: 5122px;
+    left: 377px;
+  }
+  .Six #p1{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    top: 5123px;
+    left: 397px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8C8C;
+  }
+  .Six #h1{
+    position: absolute;
+    width: 192px;
+    height: 30px;
+    top: 5168px;
+    left: 60px;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+  .Six #p2{
+    position: absolute;
+    width: 388px;
+    height: 88px;
+    top: 5213px;
+    left: 60px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8C8C;
+  }
+/*****************************************************************************************************************************************/
+  .Six #i3{
+    position: absolute;
+    width: 402px;
+    height: 226px;
+    top: 4885px;
+    left: 482px;
+  }
+  .Six #d3{
+    position: absolute;
+    width: 192px;
+    height: 35px;
+    top: 4905px;
+    left: 482px;
+    background: #2EC47D;
+  }
+  #d3 p{
+    position: absolute;
+    width: 190px;
+    height: 30px;
+    top: 2px;
+    left: 5px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Six #d4{
+    position: absolute;
+    width: 66px;
+    height: 53px;
+    top: 5086px;
+    left: 482px;
+    background: #2EC47D;
+  }
+  #d4 #p1{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    top: 5px;
+    left: 22px;
+    font: Josefin Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  #d4 #p2{
+    position: absolute;
+    width: 38px;
+    height: 16px;
+    top: 25px;
+    left: 5px;
+    font: Josefin Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  #d4 #p3{
+    position: absolute;
+    width: 18px;
+    height: 16px;
+    top: 25px;
+    left: 40px;
+    font: Josefin Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Six #i4{
+    position: absolute;
+    width: 15px;
+    height: 17px;
+    top: 5122px;
+    left: 799px;
+  }
+  .Six #p3{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    top: 5123px;
+    left: 819px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8C8C;
+  }
+  .Six #h2{
+    position: absolute;
+    width: 192px;
+    height: 30px;
+    top: 5168px;
+    left: 482px;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+  .Six #p4{
+    position: absolute;
+    width: 388px;
+    height: 88px;
+    top: 5213px;
+    left: 482px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8C8C;
+  }
+  .Six .button{
+    position: absolute;
+    width: 152px;
+    height: 45px;
+    top: 5353px;
+    left: 607px;
+    border-radius: 100px;
+    background: #2EC47D;
+  }
+  .button p{
+    position: absolute;
+    width: 111px;
+    height: 35px;
+    top: 5px;
+    left: 20px;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+  }
+  /***************************************************************************************************************************************/
+
+  .Six #i5{
+    position: absolute;
+    width: 402px;
+    height: 226px;
+    top: 4885px;
+    left: 904px;
+  }
+  .Six #d5{
+    position: absolute;
+    width: 192px;
+    height: 35px;
+    top: 4905px;
+    left: 904px;
+    background: #2EC47D;
+  }
+  #d5 p{
+    position: absolute;
+    width: 190px;
+    height: 30px;
+    top: 2px;
+    left: 5px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Six #d6{
+    position: absolute;
+    width: 66px;
+    height: 53px;
+    top: 5086px;
+    left: 904px;
+    background: #2EC47D;
+  }
+  #d6 #p1{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    top: 5px;
+    left: 22px;
+    font: Josefin Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  #d6 #p2{
+    position: absolute;
+    width: 38px;
+    height: 16px;
+    top: 25px;
+    left: 5px;
+    font: Josefin Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  #d6 #p3{
+    position: absolute;
+    width: 18px;
+    height: 16px;
+    top: 25px;
+    left: 40px;
+    font: Josefin Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Six #i6{
+    position: absolute;
+    width: 15px;
+    height: 17px;
+    top: 5122px;
+    left: 1221px;
+  }
+  .Six #p5{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    top: 5123px;
+    left: 1241px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8C8C;
+  }
+  .Six #h3{
+    position: absolute;
+    width: 192px;
+    height: 30px;
+    top: 5168px;
+    left: 904px;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+  .Six #p6{
+    position: absolute;
+    width: 388px;
+    height: 88px;
+    top: 5213px;
+    left: 904px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8C8C;
+  }
+  /*##########################################################################################################################################*/
+  #col1 #h1{
+    position: absolute;
+    width: 314px;
+    height: 75px;
+    top: 5664px;
+    left: 60px;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+
+  }
+  #col1 #p1{
+    position: absolute;
+    width: 277px;
+    height: 110px;
+    top: 5759px;
+    left: 60px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+
+  }
+  #col1 img{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 5899px;
+    left: 60px;
+  }
+  #col1 #h2{
+    position: absolute;
+    width: 134px;
+    height: 18px;
+    top: 5899px;
+    left: 147px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+  }
+  #col1 #p2{
+    position: absolute;
+    width: 47px;
+    height: 18px;
+    top: 5923px;
+    left: 147px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #747474;
+
+  }
+  #col1 #p3{
+    width: 54px;
+    height: 14px;
+    top: 5953px;
+    left: 147px;
+    font: Ubuntu;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #747474;
+  }
+  #col1 #h3{
+    position: absolute;
+    width: 314px;
+    height: 75px;
+    top: 6020px;
+    left: 60px;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+  #col1 #p4{
+    width: 277px;
+    height: 66px;
+    top: 6115px;
+    left: 60px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+  .Seven .rounded{
+    position:absolute;
+    width: 149px;
+    height: 113px;
+    top: 5493px;
+    left: 609px;
+  }
+  .Seven h1{
+    position:absolute;
+    width: 341px;
+    height: 57px;
+    top: 5533px;
+    left: 513px;
+    font: Ubuntu;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 57.45px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+
+  #col2 #i1{
+    position: absolute;
+    width: 434px;
+    height: 246px;
+    top: 5664px;
+    left: 474px;
+  }
+  #col2 #h1{
+    position: absolute;
+    width: 434px;
+    height: 50px;
+    top: 5927px;
+    left: 474px;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+  #col2 #p1{
+    position: absolute;
+    width: 434px;
+    height: 88px;
+    top: 5997px;
+    left: 474px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+  #col2 #i2{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    top: 6110px;
+    left: 474px;
+  }
+  #col2 #h2{
+    position: absolute;
+    width: 134px;
+    height: 18px;
+    top: 6112px;
+    left: 566px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+  }
+  #col2 #p2{
+    position: absolute;
+    width: 47px;
+    height: 18px;
+    top: 6138px;
+    left: 566px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #747474;
+
+  }
+  #col2 #p3{
+    position: absolute;
+    width: 54px;
+    height: 14px;
+    top: 6171px;
+    left: 566px;
+    font: Ubuntu;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 13.79px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #747474;
+  }
+
+  #col3 #i1{
+    position: absolute;
+    width: 295px;
+    height: 145px;
+    top: 5664px;
+    left: 1010px;
+  }
+  #col3 #h1{
+    position: absolute;
+    width: 295px;
+    height: 50px;
+    top: 5827px;
+    left: 1010px;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+  #col3 #p1{
+    position: absolute;
+    width: 115px;
+    height: 18px;
+    top: 5905px;
+    left: 1010px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #747474;
+  }
+  #col3 #p2{
+    position: absolute;
+    width: 54px;
+    height: 14px;
+    top: 5905px;
+    left: 1249px;
+    font: Ubuntu;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 13.79px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #747474;
+  }
+  #col3 #i2{
+    position: absolute;
+    width: 295px;
+    height: 145px;
+    top: 5941px;
+    left: 1010px;
+  }
+  #col3 #h2{
+    position: absolute;
+    width: 295px;
+    height: 50px;
+    top: 6104px;
+    left: 1010px;
+    font: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #353638;
+  }
+  #col3 #p3{
+    position: absolute;
+    width: 115px;
+    height: 18px;
+    top: 6185px;
+    left: 1010px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #747474;
+  }
+  #col3 #p4{
+    position: absolute;
+    width: 54px;
+    height: 14px;
+    top: 6185px;
+    left: 1249px;
+    font: Ubuntu;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 13.79px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #747474;
+  }
+  /*##########################################################################################################################################*/
+  .Eight #i1{
+    position: absolute;
+    width: 1100px;
+    height: 155px;
+    top: 6283px;
+    left: 134px;
+    color: #29282899;
+  }
+  .Eight #h1{
+    width: 419px;
+    height: 60px;
+    top: 50px;
+    left: 75px;
+    font: Ubuntu;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight #p1{
+    position: absolute;
+    width: 155px;
+    height: 21px;
+    top: 76px;
+    left: 650px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20.68px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:  #A8A8A8;
+  }
+  .Eight .hr{
+    position: absolute;
+    width: 192px;
+    top: 103px;
+    left: 650px;
+    border: 1px;
+    border: 1px solid #FFFFFF;
+  }
+  .Eight button{
+    position: absolute;
+    width: 165px;
+    height: 47px;
+    top: 50px;
+    left: 870px;
+    border-radius: 3px;
+    background: #2EC47D;
+    color: #FFFFFF;
+  }
+  .Eight #i2{
+    position: absolute;
+    width: 1366px;
+    height: 440px;
+    top: 6518px;
+    left: 2px;
+  }
+  .Eight #i3{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 80px;
+    left: 50px;
+    color: #FFFFFF;
+  }
+  .Eight #h2{
+    position: absolute;
+    width: 329px;
+    height: 84px;
+    top: 210px;
+    left: 50px;
+    font: Ubuntu;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight .social{
+    position: absolute;
+    width: 158px;
+    height: 31.34px;
+    top: 350px; 
+    left: 40px;
+  }
+  .Eight #h3{
+    position: absolute;
+    width: 133px;
+    height: 30px;
+    top: 120px;
+    left: 462px;
+    font: Ubuntu;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight #p2{
+    position: absolute;
+    width: 224px;
+    height: 210px;
+    top: 170px;
+    left: 462px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight #h4{
+    position: absolute;
+    width: 144px;
+    height: 30px;
+    top: 120px;
+    left: 754px;
+    font: Ubuntu;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight #p3{
+    position: absolute;
+    width: 154px;
+    height: 140px;
+    top: 170px;
+    left: 754px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight #h5{
+    position: absolute;
+    width: 144px;
+    height: 30px;
+    top: 120px;
+    left: 980px;
+    font: Ubuntu;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight #i4{
+    position: absolute;
+    width: 17.26px;
+    height: 26px;
+    top: 170px;
+    left: 980px;
+    color: #FFFFFF;
+  }
+  .Eight #p4{
+    position: absolute;
+    width: 287px;
+    height: 88px;
+    top: 170px;
+    left: 1018px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight #i5{
+    position: absolute;
+    width: 21.92px;
+    height: 20px;
+    top: 280px;
+    left: 976px;
+    color: #FFFFFF;
+  }
+  .Eight #p5{
+    position: absolute;
+    width: 275px;
+    height: 21px;
+    top: 280px;
+    left: 1018px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20.68px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight #i6{
+    position: absolute;
+    width: 22.95px;
+    height: 17px;
+    top: 330px;
+    left: 976px;
+    color: #FFFFFF;
+  }
+  .Eight #p6{
+    position: absolute;
+    width: 284px;
+    height: 56px;
+    top: 320px;
+    left: 1018px;
+    font: Ubuntu;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  .Eight #col1{
+    position: absolute;
+    width: 1368px;
+    height: 49px;
+    top: 6932px;
+    left: 2px;
+    background: #2EC47D;
+  }
+  .Eight #p7{
+    position: absolute;
+    width: 529px;
+    height: 18px;
+    top: 15px;
+    left: 50px;
+    font: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.38px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #FFFFFF;
+  }
+/*##########################################################################################################################################*/
